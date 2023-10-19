@@ -175,7 +175,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 ## 📫 How to Reach me
 
-[![Author](https://img.shields.io/badge/About_me-frannie1020-orange)]([https://frannie1020.github.io/])
+[![Author](https://img.shields.io/badge/About_me-Frannie1020-orange)](https://frannie1020.github.io/)
 <!-- Connections
 <p align="left">
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a> 
