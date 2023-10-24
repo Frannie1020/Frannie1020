@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/frannie1020/frannie1020"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
     <a href="https://github.com/frannie1020/frannie1020/graphs/contributors"><img src="https://img.shields.io/github/contributors/frannie1020/frannie1020?color=blue"></a>
     <a href="https://github.com/frannie1020/frannie1020/stargazers"><img src="https://img.shields.io/github/stars/frannie1020/frannie1020.svg?logo=github"></a>
     <a href="https://github.com/frannie1020/frannie1020/network/members"><img src="https://img.shields.io/github/forks/frannie1020/frannie1020.svg?color=blue&logo=github"></a>
