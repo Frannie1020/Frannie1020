@@ -4,7 +4,7 @@
 
 ## 🤖 Who am I?
 Currently a student at [FAU](https://www.fau.de/)🏫.
-B.Eng in Computer Science and Technology in [UESTC](https://en.uestc.edu.cn/)🏫.
+B.Eng in Computer Science and Technology at [UESTC](https://en.uestc.edu.cn/)🏫.
 ## 👯 What I am looking for
 **Work student/Werkstudent or Internship/Pflichtpraktikum.**
 * Software Engineer
