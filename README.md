@@ -11,13 +11,12 @@ B.Eng in Computer Science and Technology in [UESTC](https://en.uestc.edu.cn/)�
 * Full-stack developer
 * Java Backend developer
 ## ⚡ Technologies
-Talk to me about:
 * **Programming Languages:** C++, Java, Python, C#, Angular, MySQL, JavaScript, React.js, Node.js, Next.js, HTML/CSS, Typescript, PHP, Kotlin, Scala, Linux, Go
 * **Frameworks and Tools:** Docker, Kubernetes, OpenStack, Prometheus, Terraform, Maven, Spring Boot, .NET, Shell, Apache Kafka/Spark, SAP, Git, Agile, Scrum, RESTful, Jenkins, UML, MATLAB, Unix, JUnit, Guice, JPA, Hadoop, Django, Gulp
 * **Cloud Platforms:** AWS, Google Cloud(GCP), Microsoft Azure, Oracle
 * **Database Management:** MySQL, MongoDB, PostgreSQL, InfluxDB, Databricks, Redis, GraphQL, NoSQL
 ## 🤔 About me
-- 💬 Ask me about anything and everything.
+- 💬 Ask me about anything.
 - 📫 Read my blogs: [Frannie's Blog](https://frannie1020.github.io/).
 
 ![Frannie's github stats](https://github-readme-stats.vercel.app/api?username=Frannie1020&hide=["issues"]&show_icons=true)
