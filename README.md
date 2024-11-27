@@ -3,7 +3,7 @@
 
 
 ## 🤖 Who am I?
-Currently an MSc student at [FAU](https://www.fau.de/)🏫.
+Currently a student at [FAU](https://www.fau.de/)🏫.
 B.Eng in Computer Science and Technology in [UESTC](https://en.uestc.edu.cn/)🏫.
 ## 👯 What I am looking for
 **Work student/Werkstudent or Internship/Pflichtpraktikum.**
