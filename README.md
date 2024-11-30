@@ -16,8 +16,9 @@
 * **Cloud Platforms:** AWS, Google Cloud(GCP), Microsoft Azure, Oracle
 * **Database Management:** MySQL, MongoDB, PostgreSQL, InfluxDB, Databricks, Redis, GraphQL, NoSQL
 ## 🤔 About me
-- 💬 Ask me about anything.
+- 💬 Ask me about anything.[Frannie's portfolio](https://frannie1020.framer.ai/)
 - 📫 Read my blogs: [Frannie's Blog](https://frannie1020.live).
+
 
 ![Frannie's github stats](https://github-readme-stats.vercel.app/api?username=Frannie1020&hide=["issues"]&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frannie1020&layout=compact)](https://github.com/Frannie1020/github-readme-stats)
