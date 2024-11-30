@@ -18,6 +18,7 @@
 ## 🤔 About me
 - 💬 Ask me about anything. [Frannie's portfolio](https://frannie1020.framer.ai/)
 - 📫 Read my blogs: [Frannie's Blog](https://frannie1020.live).
+- 👾 Github page: [Frannie's Blog](https://frannie1020.github.io/)
 
 
 ![Frannie's github stats](https://github-readme-stats.vercel.app/api?username=Frannie1020&hide=["issues"]&show_icons=true)
