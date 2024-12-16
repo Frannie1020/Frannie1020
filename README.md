@@ -17,7 +17,7 @@
 * **Database Management:** MySQL, MongoDB, PostgreSQL, InfluxDB, Databricks, Redis, GraphQL, NoSQL
 ## 🤔 About me
 - 💬 Ask me about anything. [Frannie's portfolio](https://frannie1020.framer.ai/)
-- 👾 Github page: [Frannie's Blog](https://frannie1020.github.io/)
+- 👾 Github page: [Frannie's Blog](https://www.frannie1020.live/)
 
 
 ![Frannie's github stats](https://github-readme-stats.vercel.app/api?username=Frannie1020&hide=["issues"]&show_icons=true)
