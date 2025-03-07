@@ -6,7 +6,7 @@
 * Currently a student at [FAU](https://www.fau.de/)🏫.
 * B.Eng in Computer Science and Technology at [UESTC](https://en.uestc.edu.cn/)🏫.
 ## 👯 What I am looking for
-**Working student/Werkstudent or Internship/Pflichtpraktikum.**
+**Working student/Werkstudent or Internship/Praktikum.**
 * Software Engineer
 * Full-stack developer
 * Java Backend developer
